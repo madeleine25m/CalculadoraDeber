@@ -1,0 +1,20 @@
+tr,td{
+    cursor: pointer;
+    background-color:pink;
+    font-size: xx-large ;
+    border: solid black 2px;
+    }
+    .tabla{
+     border-collapse: collapse;
+     width: 25%;
+    }
+
+    tr td:active{
+   background-color: plum;
+
+    }
+    .caja{
+    width: 24%;
+
+    }
+    
