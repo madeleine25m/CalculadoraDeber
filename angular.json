@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "calculadoraDeber"
+  "defaultProject": "calculadoraDeber",
+  "cli": {
+    "analytics": "c5ac045f-d59e-4da8-9687-370ca1d48cb5"
+  }
 }
